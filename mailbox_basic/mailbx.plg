@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+A:\SEM 5\OSED\RTOS_BASIC_PROGRAMS\mailbox_basic\mailbx.uvproj
+Project File Date:  02/04/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling RTX_Config.c...
+assembling Startup.s...
+compiling MB3.C...
+linking...
+mailbx.axf: Error: L6218E: Undefined symbol os_stk_overflow (referred from rt_hal.o).
+Target not created
