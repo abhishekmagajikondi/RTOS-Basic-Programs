@@ -1,6 +1,4 @@
-# RTOS
-
-Certainly! Below is a basic template for a README file for a GitHub repository containing basic programs for an RTOS (Real-Time Operating System):
+#  RTOS (Real-Time Operating System)
 
 RTOS Basic Programs
 
